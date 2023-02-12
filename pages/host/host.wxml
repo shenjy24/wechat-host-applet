@@ -1,0 +1,4 @@
+<view>
+    <text>从云托管获取计数器：{{val}}</text>
+    <button bindtap="addOne">增加</button>
+</view>

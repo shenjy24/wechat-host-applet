@@ -1,0 +1,16 @@
+{
+    "entryPagePath": "pages/host/host",
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/host/host"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "云托管",
+        "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
